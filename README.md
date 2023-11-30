@@ -12,8 +12,8 @@ This awesome list is created to help researchers and practisioners get up to spe
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and send across a pull request.
 
 ## Contents
-* [Latent Diffusion Models](#Latent Diffusion Model)
-* [Generative Adversarial Networks](#Generative Adversarial Networks (GANs))
+* [Latent Diffusion Models](#Latent--Diffusion--Model)
+* [Generative Adversarial Networks](#Generative--Adversarial--Networks--(GANs))
 
 * * *
 
