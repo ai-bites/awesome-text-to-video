@@ -12,9 +12,9 @@ This awesome list is created to help researchers and practisioners get up to spe
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and send across a pull request.
 
 ## Contents
-* [Latent Diffusion Models](#latent--diffusion--models)
-* [Generative Adversarial Networks](#generative--adversarial--networks--gans)
-* [Autoregressive Models](#autoregressive-Models)
+* [Latent Diffusion Models](#latent-diffusion-models)
+* [Generative Adversarial Networks](#generative-adversarial-networks-gans)
+* [Autoregressive Models](#autoregressive-models)
 * * *
 
 ### Latent Diffusion Models
