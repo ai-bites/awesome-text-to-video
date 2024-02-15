@@ -12,17 +12,21 @@ This awesome list is created to help researchers and practisioners get up to spe
 If you have any suggestions (missing papers, new papers, key researchers or typos), please feel free to edit and send across a pull request.
 
 ## Contents
-* [Latent Diffusion Models](#latent-diffusion-models)
-* [Generative Adversarial Networks](#generative-adversarial-networks-gans)
-* [Autoregressive Models](#autoregressive-models)
+- [Awesome - Most Cited and Impactful Papers on AI Video generation](#awesome---most-cited-and-impactful-papers-on-ai-video-generation)
+  - [Why this Awesome list](#why-this-awesome-list)
+  - [Contributing](#contributing)
+  - [Contents](#contents)
+    - [Latent Diffusion Models](#latent-diffusion-models)
+    - [Autoregressive Models](#autoregressive-models)
+    - [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
 
 ### Latent Diffusion Models
-| Paper Title | Link | Blog | Who? | 
-|---|---|---|---|
-| Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | [pdf](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf) | [blog](https://stability.ai/news/stable-video-diffusion-open-ai-video-model) | Stability AI
-| Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning | [pdf](https://arxiv.org/pdf/2311.10709.pdf) | [blog](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research) | Meta AI
-| LUMIERE: A Space-Time Diffusion Model for Realistic Video Generation | [pdf](https://arxiv.org/abs/2401.12945) | [blog](https://lumiere-video.github.io/) | Google Research
-
+| Paper Title                                                                     | Link                                                                                                                                       | Blog                                                                                 | Who?            |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | --------------- |
+| Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets | [pdf](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/655ce779b9d47d342a93c890/1700587395994/stable_video_diffusion.pdf) | [blog](https://stability.ai/news/stable-video-diffusion-open-ai-video-model)         | Stability AI    |
+| Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning  | [pdf](https://arxiv.org/pdf/2311.10709.pdf)                                                                                                | [blog](https://ai.meta.com/blog/emu-text-to-video-generation-image-editing-research) | Meta AI         |
+| LUMIERE: A Space-Time Diffusion Model for Realistic Video Generation            | [pdf](https://arxiv.org/abs/2401.12945)                                                                                                    | [blog](https://lumiere-video.github.io/)                                             | Google Research |
+| Magic-Me: Identity-Specific Video Customized Diffusion                          | [pdf](https://arxiv.org/abs/2402.09368)                                                                                                    | [blog](https://magic-me-webpage.github.io/)                                          | ByteDance       |
 
 ### Autoregressive Models
 
