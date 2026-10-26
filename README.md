@@ -1,4 +1,5 @@
 # Awesome - Most Cited and Impactful Papers on AI Video generation
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A curated list of papers on video generation or editing using Generative Models such as Diffusion Models, Generative Adversarial Networks (GANs), etc.
 
 Though the name of the repo is `text-to-video`, all sorts of modalities to video such as `text+image` to video are also included and contributions are welcome.
